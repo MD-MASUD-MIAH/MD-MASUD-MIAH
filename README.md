@@ -5,11 +5,10 @@
 
 ---
 
-### 🧑‍💼 About Me
+### 🧑‍💼 My Tech Arsenal
 I’m a passionate full stack web developer focused on building dynamic and user-friendly web applications. I love turning ideas into reality using code.
 
 - 🔭 Currently building a **Parcel Delivery Platform** with full district coverage of Bangladesh
-- 
 - 🛠️ Working with **React, Node.js, Firebase, MongoDB**
 - ✨ Always learning new technologies and improving my skills
 
@@ -23,7 +22,7 @@ I’m a passionate full stack web developer focused on building dynamic and user
 
 ---
 
-### 📫 Connect With Me
+### 🔗 Reach Me Out
 <p>
   <a href="masudd424@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/masoud-dhali"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
