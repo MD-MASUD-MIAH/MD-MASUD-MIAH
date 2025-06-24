@@ -1,4 +1,4 @@
-<img src="https://your-banner-url" alt="Banner" />
+<img src="https://i.ibb.co/VWPnXr7S/Flux-Dev-highresolution-stock-photo-of-A-modern-Git-Hub-banner-2.jpg" alt="Banner" />
 
 # 👋 Hi, I'm Masud  
 ### 💻 Full Stack Web Developer | MERN Stack Enthusiast
