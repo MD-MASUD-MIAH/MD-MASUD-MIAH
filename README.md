@@ -1,24 +1,24 @@
-<img src="your-banner-url" alt="Banner" />
+<img src="https://your-banner-url" alt="Banner" />
 
-### Hi there, I'm Masoud 👋  
-#### Full Stack Web Developer | MERN Stack Enthusiast  
-
----
-
-### 🧑‍💻 About Me
-
-I’m a passionate full stack web developer with a focus on building dynamic and scalable web applications.
-
-- 🔭 I’m currently working on a **parcel delivery platform** with real-time district coverage
-- 🌱 Exploring **Next.js** and **Leaflet.js** for map-based UI
-- 💼 I’m available for freelance or full-time opportunities
-- 🧠 Always learning and improving
+# 👋 Hi, I'm Masoud  
+### 💻 Full Stack Web Developer | MERN Stack Enthusiast
 
 ---
 
-### 🛠 Skills
+### 🧑‍💼 About Me
+I’m a passionate full stack web developer focused on building dynamic and user-friendly web applications. I love turning ideas into reality using code.
+
+- 🔭 Currently building a **Parcel Delivery Platform** with full district coverage of Bangladesh
+- 🌱 Exploring **Next.js** and **Leaflet.js**
+- 🛠️ Working with **React, Node.js, Firebase, MongoDB**
+- ✨ Always learning new technologies and improving my skills
+
+---
+
+### 🚀 Skills
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,figma,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,figma" />
 </p>
 
 ---
@@ -26,16 +26,15 @@ I’m a passionate full stack web developer with a focus on building dynamic and
 ### 📫 Connect With Me
 <p>
   <a href="mailto:masoud.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/masoud-dhali/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://masouddhali.dev/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/masoud-dhali"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
-![Masoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masouddhali&show_icons=true&theme=radical)
+![Masoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MD-MASUD-MIAH&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masouddhali&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MASUD-MIAH&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=masouddhali&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MD-MASUD-MIAH&theme=radical)](https://git.io/streak-stats)
