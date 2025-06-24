@@ -1,6 +1,6 @@
 <img src="https://your-banner-url" alt="Banner" />
 
-# 👋 Hi, I'm Masoud  
+# 👋 Hi, I'm Masud  
 ### 💻 Full Stack Web Developer | MERN Stack Enthusiast
 
 ---
@@ -9,7 +9,7 @@
 I’m a passionate full stack web developer focused on building dynamic and user-friendly web applications. I love turning ideas into reality using code.
 
 - 🔭 Currently building a **Parcel Delivery Platform** with full district coverage of Bangladesh
-- 🌱 Exploring **Next.js** and **Leaflet.js**
+- 
 - 🛠️ Working with **React, Node.js, Firebase, MongoDB**
 - ✨ Always learning new technologies and improving my skills
 
