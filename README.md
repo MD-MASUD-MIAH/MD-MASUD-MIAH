@@ -17,8 +17,8 @@ I’m a passionate full stack web developer focused on building dynamic and user
 ### 🚀Technologies that I know
   <img src="https://github.com/MD-MASUD-MIAH/MD-MASUD-MIAH/blob/main/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,figma" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,figma" />
 </p>
 
 
