@@ -22,7 +22,14 @@ I’m a passionate full stack web developer focused on building dynamic and user
 </p>
 
  <p align="center">
-  <img src="https://skillicons.dev/icons?i=,tailwind,nodejs,express," />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express," />
+ </p>
+
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=css,js,react" />
+ </p>
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=html" />
  </p>
 
 
