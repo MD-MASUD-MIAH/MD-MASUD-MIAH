@@ -20,9 +20,10 @@ I’m a passionate full stack web developer focused on building dynamic and user
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,figma" />
 </p>
-<p align="center">
+<br>
+ <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express," />
-</p>
+ </p>
 
 
 ---
