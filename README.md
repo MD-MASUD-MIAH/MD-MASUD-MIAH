@@ -35,5 +35,6 @@ I’m a passionate full stack web developer focused on building dynamic and user
 ![Masoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MD-MASUD-MIAH&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MASUD-MIAH&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=dark&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MD-MASUD-MIAH&theme=radical)](https://git.io/streak-stats)
