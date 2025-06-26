@@ -15,9 +15,7 @@ I’m a passionate full stack web developer focused on building dynamic and user
 ---
 
 ### 🚀 Skills
-### 🚀 Skills
 
-![Gift](https://raw.githubusercontent.com/masud-dhali/masud-dhali/main/gift.gif)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,figma" />
