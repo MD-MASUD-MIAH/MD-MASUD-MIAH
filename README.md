@@ -15,7 +15,7 @@ I’m a passionate full stack web developer focused on building dynamic and user
 ---
 
 ### 🚀 Skills
-
+![Gift](https://raw.githubusercontent.com/your-username/your-username/main/your-gif.gif)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,figma" />
 </p>
