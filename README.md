@@ -18,7 +18,7 @@ I’m a passionate full stack web developer focused on building dynamic and user
   <img src="https://github.com/MD-MASUD-MIAH/MD-MASUD-MIAH/blob/main/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,figma,react" />
 </p>
 
  <p align="center">
@@ -26,7 +26,7 @@ I’m a passionate full stack web developer focused on building dynamic and user
  </p>
 
  <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,js,react" />
+  <img src="https://skillicons.dev/icons?i=css,js," />
  </p>
  <p align="center">
   <img src="https://skillicons.dev/icons?i=html" />
