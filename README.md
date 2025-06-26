@@ -26,9 +26,7 @@ I’m a passionate full stack web developer focused on building dynamic and user
  </p>
 
 
- <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" />
- </p>
+
 
 
 ---
