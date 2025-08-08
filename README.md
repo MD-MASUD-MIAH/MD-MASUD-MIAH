@@ -9,7 +9,9 @@
 
 # 👋 Hi, I'm Masud  
 ### 💻  MERN Stack Web Developer |Full Stack Enthusiast  
-
+<p align="center">
+  <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack%20Web%20Developer;6+%20Months%20Of%20Coding%20Experience;Always%20Learning%20Mindset" alt="Fontend Developer" /></a>
+</p>
 ---
 
 ### 🧑‍💼 My Tech Arsenal
