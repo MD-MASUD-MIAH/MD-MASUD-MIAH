@@ -8,8 +8,8 @@
 
 
 # 👋 Hi, I'm Masud  
-### <p > 💻  
-  <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&color=00C37A&lines=Mern-Stack%20Web%20Developer;Passionate%20About%20Building%20Scalable%20Web%20Applications;Committed%20to%20Continuous%20Learning%20and%20Improvement" alt="Frontend Developer" /></a>
+### <p >  
+  <a>  💻<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&color=00C37A&lines=Mern-Stack%20Web%20Developer;Passionate%20About%20Building%20Scalable%20Web%20Applications;Committed%20to%20Continuous%20Learning%20and%20Improvement" alt="Frontend Developer" /></a>
 </p>
 
 
