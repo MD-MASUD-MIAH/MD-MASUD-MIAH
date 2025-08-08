@@ -46,11 +46,11 @@ I'm a passionate full-stack developer focused on building dynamic, user-friendly
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MD-MASUD-MIAH&show_icons=true&theme=radical" alt="GitHub stats">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MASUD-MIAH&layout=compact&theme=radical" alt="Top Languages">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-MASUD-MIAH&theme=radical" alt="GitHub Streak">
+![Masoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MD-MASUD-MIAH&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MASUD-MIAH&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=MD-MASUD-MIAH&theme=radical&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 ---
@@ -60,7 +60,7 @@ I'm a passionate full-stack developer focused on building dynamic, user-friendly
   <a href="https://www.linkedin.com/in/md-masud-miah-326186344">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:masudd424@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
