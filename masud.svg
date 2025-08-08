@@ -26,22 +26,22 @@
     <rect id="name-bg-1" y="0" width="1280" height="640" fill="#252e40" />
 
     <!-- NAME: Alwin -->
-    <polygon id="A-outside" class="name-outline"
+    <polygon id="M-outside" class="name-outline"
         points="376.844 343.399 361.003 389.721 330.763 389.721 392.924 218.837 431.565 218.837 493.727 389.721 463.486 389.721 447.646 343.399 376.844 343.399"
         pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" />
-    <path id="A-inside" class="name-outline"
+    <path id="M-inside" class="name-outline"
         d="M434.4453,304.999c-7.68-22.8-15.1206-45.1206-22.0806-67.9214h-.48c-6.96,22.8008-13.92,45.1211-21.8409,67.9214l-4.56,13.4409h53.5215Z"
         transform="translate(0 2.5)" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" />
-    <rect id="l" class="name-outline" x="512.2021" y="218.8374" width="27.3603" height="170.8833" pathLength="1"
+    <rect id="A" class="name-outline" x="512.2021" y="218.8374" width="27.3603" height="170.8833" pathLength="1"
         stroke-dasharray="1" stroke-dashoffset="1" />
-    <path id="w" class="name-outline"
+    <path id="s" class="name-outline"
         d="M676.36,389.72l-12.48-50.4c-4.32-17.28-8.16-34.8-11.76-52.56h-.48c-3.6,17.76-7.44,35.28-11.76,52.56l-12.48,50.4H588.28L558.52,267.8h27.36l11,49c4.08,17.76,7.92,36.24,11,54h.48c3.6-17.76,7.68-35.28,12-53l12.24-49.92h38.4l12.24,49.92c4.32,17.76,8.4,35.28,12,53h.48c3.12-17.76,7-36.24,11-54l11-49h27.37L715.48,389.72Z"
         transform="translate(0 2.5)" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" />
-    <rect id="i-upper" class="name-outline" x="764.1992" y="221.3374" width="27.3604" height="26.1606" pathLength="1"
+    <rect id="u-upper" class="name-outline" x="764.1992" y="221.3374" width="27.3604" height="26.1606" pathLength="1"
         stroke-dasharray="1" stroke-dashoffset="1" />
-    <rect id="i-lower" class="name-outline" x="764.1992" y="270.2983" width="27.3604" height="121.9224" pathLength="1"
+    <rect id="U-lower" class="name-outline" x="764.1992" y="270.2983" width="27.3604" height="121.9224" pathLength="1"
         stroke-dasharray="1" stroke-dashoffset="1" />
-    <path id="n" class="name-outline"
+    <path id="D" class="name-outline"
         d="M933.88,315.08v74.64H906.52V317.48c0-21.84-9.36-30.48-24.72-30.48C866.2,287,854,298.76,854,322v67.68H826.6V267.8h25.92v15.84H853a43.52,43.52,0,0,1,36.48-18.72C917.08,264.92,933.88,281.72,933.88,315.08Z"
         transform="translate(0 2.5)" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" />
 
