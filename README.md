@@ -48,10 +48,9 @@ I'm a passionate full-stack developer focused on building dynamic, user-friendly
 <div align="center"> 
 
   
-![Masoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MD-MASUD-MIAH&show_icons=true&theme=radical) 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MASUD-MIAH&layout=compact&theme=radical)
+  
+![Masoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MD-MASUD-MIAH&show_icons=true&theme=radical) 
 
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=MD-MASUD-MIAH&theme=radical&hide_border=true)](https://git.io/streak-stats)
