@@ -17,7 +17,7 @@
 ### 🧑‍💼 My Tech Arsenal
 I’m a passionate full stack web developer focused on building dynamic and user-friendly web applications. I love turning ideas into reality using code.
 
-- 🔭 Currently developing a **Fitness Trainer Web Application** with advanced features like booking, role-based dashboards, and Stripe payment  
+- 🔭 Currently developing a **Fitness Trainer Web Application** with advanced features like booking, role-based dashboards, Stripe payment  
 - ⚙️ Learning and working with **Next.js**, **TypeScript**, and modern full-stack tools  
 - ✨ Focused on writing scalable, type-safe, and high-performance code  
 
