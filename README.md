@@ -1,6 +1,6 @@
 <div width='100%'>
-  <img width='100%' src='<img src='https://i.ibb.co.com/d4nVjSMr/be-your-full-stack-web-developer-using-react-js-node-js.webp'>
-'>
+
+<img width='100%' src='https://i.ibb.co.com/Z3xcW5K/nmc62akadb6uw4cgfr9l.jpg'>
 
 </div>
 
