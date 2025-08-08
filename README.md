@@ -1,5 +1,7 @@
-<img src='https://i.ibb.co.com/d4nVjSMr/be-your-full-stack-web-developer-using-react-js-node-js.webp'>
+<div width='100%'>
+  <img width='100%' src='https://i.ibb.co.com/d4nVjSMr/be-your-full-stack-web-developer-using-react-js-node-js.webp'>
 
+</div>
 
 
 
