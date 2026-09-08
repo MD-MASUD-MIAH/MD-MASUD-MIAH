@@ -1,5 +1,5 @@
 <div align="center">
-  <img width='100%' height='450px' src='[https://i.ibb.co.com/qLPz0HbP/mern-stack-header.webp](https://i.ibb.co.com/cSFcrm8s/d406badb-906e-4b61-ad88-acef66c03407.jpg)' alt="header image">
+  <img width='100%' height='450px' src='https://i.ibb.co.com/cSFcrm8s/d406badb-906e-4b61-ad88-acef66c03407.jpg' alt="header image">
 </div>
 
 # 👋 Hi, I'm Masud  
